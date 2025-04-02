@@ -1,4 +1,4 @@
-# Achieving sustainability: Unravelling the role of financial development and foreign direct investment in sub-Saharan Africa
+# Achieving Sustainability: Unravelling the role of Financial Development and Foreign Direct Investment in Sub-Saharan Africa
 
 ## Summary
 As the global community grapples with sustainable development, Sub-Saharan Africa (SSA) faces a critical dilemma in balancing economic growth and environmental preservation. This study examines the effect of financial development (Foreign Direct Investment) on CO2 emissions in achieving sustainability in SSA. Employing FMOLS and DOLS cointegration approaches, the study demonstrates substantial connections between key variables. Environmental taxes and FDI negatively impact emissions, while industrial activities can decrease carbon emissions. 
