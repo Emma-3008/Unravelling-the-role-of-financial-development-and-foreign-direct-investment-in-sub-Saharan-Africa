@@ -14,6 +14,8 @@ The unprecedented threat that climate change poses to human life and the environ
 ## Aim
 This study aims to provide unique insights into sustainable financial developments and tax policies for funding environmentally friendly projects in SSA. It will also assist policymakers and stakeholders of the African Continental Free Trade Agreement (AfCFTA) in developing practical and sustainable measures to ensure free trade across Africa. Additionally, the study seeks to help policymakers create an environmental quality plan that can aid SSA countries in achieving Sustainable Development Goal 13. Furthermore, it explores how environmental taxes, ecological footprint, and natural resource rent impact CO2 emissions to achieve sustainability.
 
+![image](https://github.com/user-attachments/assets/5962bd8c-808f-4487-aa11-c9913df83c53)
+
 ## Methodology
 Yearly data from 1995-2019 covering ten (10) countries in SSA were used. The study utilized nine (9) variables obtained from the World Bank Indicators (WDI), OECD, Our World in Data, and Global Footprint Network. The Fully Modified Ordinary Least Square (FMOLS) and Dynamic Ordinary Least Squares (DOLS) methods were employed to provide a robust analysis and conclusions. These methods handle unnoticed heterogeneity between regression numbers and serial correlations in error terms. The DOLS method incorporates lags and explanatory variables to handle endogeneity problems effectively and can evaluate cross-sectional dependence by accumulating parameters specific to a country, making it effective with small samples. To estimate panel causality, the study employed paired Dumitrescu-Hurlin panel causality tests.
 
